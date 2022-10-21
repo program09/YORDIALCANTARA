@@ -552,3 +552,15 @@ footer .redes_footer a{
 .sdr img{
     border-radius: 10px;
 }
+
+@media (min-width:1003px){
+    #btn_menu{
+        display: none !important;
+    }
+}
+
+@media (max-width:1003px){
+    #btn_menues{
+        display: none !important;
+    }
+}
