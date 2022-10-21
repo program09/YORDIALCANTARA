@@ -553,13 +553,13 @@ footer .redes_footer a{
     border-radius: 10px;
 }
 
-@media (min-width:1003px){
+@media (min-width:1002px){
     #btn_menu{
         display: none !important;
     }
 }
 
-@media (max-width:1003px){
+@media (max-width:1002px){
     #btn_menues{
         display: none !important;
     }
